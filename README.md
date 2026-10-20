@@ -6,7 +6,7 @@ O **Programador de Poemas** é um projeto autoral de criação e investigação 
 
 **A Invasão do Poeta** é a assinatura artística. **O Analista de Sistemas Poeta** representa o encontro entre pensamento técnico, investigação e expressão humana.
 
-Este repositório público apresenta a proposta, os princípios, o método, as referências e a formação relacionada ao projeto. O acervo poético e as instruções privadas de trabalho não fazem parte desta publicação. Enquanto esse material permanece reservado, parte da expressão artística pode ser acompanhada no [Instagram @patrickbranco5](https://www.instagram.com/patrickbranco5/).
+Este repositório público apresenta a proposta, os princípios, o método, as referências e a formação relacionada ao projeto. O acervo poético e as instruções privadas de trabalho não fazem parte desta publicação. Enquanto esse material permanece reservado, parte da expressão artística pode ser acompanhada no [Instagram @patrickbrancoo
 
 ## O propósito: aproximar a arte da tecnologia sem perder a essência humana
 
