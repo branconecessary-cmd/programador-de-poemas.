@@ -184,7 +184,7 @@ Quero investigar como a IA pode colaborar com quem cria sem ocupar o lugar de qu
 
 O GitHub apresenta a documentação conceitual e técnica do projeto. O Instagram reúne publicações em que a expressão artística aparece de forma viva enquanto o acervo completo permanece reservado.
 
-**Instagram:** [@patrickbranco5](https://www.instagram.com/patrickbranco5/)
+**Instagram:** [@patrickbrancoo](https://www.instagram.com/patrickbrancoo/)
 
 O Programador de Poemas convida poetas, artistas, pesquisadores e profissionais de tecnologia a examinar a proposta e dialogar sobre formas responsáveis de aproximar inteligência artificial e criação humana.
 
