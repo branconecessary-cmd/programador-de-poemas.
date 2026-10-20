@@ -210,4 +210,8 @@ O Programador de Poemas convida poetas, artistas, pesquisadores e profissionais 
 
 #programador_de_poemas #oanalistadesistemapoeta #NaoPareAteSeOrgulhar
 
-Todos os direitos reservados.
+## Direitos autorais
+
+© Patrick Branco Campos. Todos os direitos reservados.
+
+O conteúdo original deste projeto está sujeito à legislação aplicável de direitos autorais. A disponibilização pública desta documentação não autoriza a reprodução, adaptação ou exploração comercial de obras autorais sem a devida autorização, ressalvadas as hipóteses legais aplicáveis.
