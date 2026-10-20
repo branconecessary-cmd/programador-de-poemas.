@@ -100,12 +100,29 @@ A análise de semelhança textual será sempre contextual. Não há um percentua
 
 ## Referências legais e diretrizes para aprofundamento
 
-As referências abaixo reúnem legislação brasileira e marcos nacionais e internacionais de orientação para a discussão sobre IA responsável, direitos e governança. A Recomendação da UNESCO é uma diretriz ética internacional, não uma lei brasileira. Sua inclusão orienta a reflexão; **não significa certificação, conformidade formal ou implementação integral** dos respectivos instrumentos no projeto.
+Esta seção reúne legislação brasileira e referências internacionais de ética e governança da inteligência artificial. A Recomendação da UNESCO é um instrumento normativo internacional de orientação ética, não uma lei brasileira. As referências servem como base para estudo e análise; sua inclusão **não significa certificação, conformidade formal ou validação institucional** do Programador de Poemas.
+
+### UNESCO — Recomendação sobre a Ética da Inteligência Artificial
+
+**Referência completa:** UNESCO. *Recomendação sobre a Ética da Inteligência Artificial*. Aprovada pela Conferência Geral da UNESCO em 23 de novembro de 2021. Publicada em português em 2022, Paris: Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO). Identificador editorial: SHS/BIO/PI/2021/1.
+
+- [Consultar a publicação integral oficial em português (UNESCO)](https://unesdoc.unesco.org/ark:/48223/pf0000381137_por).
+- [Consultar a versão oficial em PDF](https://unesdoc.unesco.org/in/documentViewer.xhtml?ark=%2Fark%3A%2F48223%2Fpf0000381137_por%2FPDF%2F381137por.pdf).
+
+A Recomendação apresenta valores e princípios para orientar o desenvolvimento e o uso ético da IA, com foco em direitos humanos e dignidade, diversidade e inclusão, transparência e explicabilidade, responsabilidade, supervisão humana, privacidade e governança de dados, segurança e sustentabilidade. O documento também aborda onze áreas de ação política: avaliação de impacto ético; governança e gestão ética; política de dados; desenvolvimento e cooperação internacional; meio ambiente e ecossistemas; gênero; cultura; educação e pesquisa; comunicação e informação; economia e trabalho; e saúde e bem-estar social.
+
+**Relação com o Programador de Poemas:** esta referência oferece um marco ético para discutir a centralidade da pessoa no processo criativo, a preservação da voz autoral, a transparência sobre a participação da IA, a curadoria e a responsabilidade humanas, a diversidade das expressões culturais e os limites do uso de sistemas generativos. Esses pontos são orientações para a análise do projeto, não resultados comprovados nem uma declaração de que o projeto tenha sido avaliado ou aprovado pela UNESCO.
+
+**Relação com a legislação brasileira:** a Recomendação pode ser lida em conjunto com as leis abaixo, sem substituí-las ou alterar seu alcance jurídico. A Lei de Direitos Autorais trata da proteção das obras e dos direitos autorais; a LGPD trata da proteção de dados pessoais; e o Marco Civil da Internet estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. A Recomendação da UNESCO oferece um enquadramento ético internacional complementar; não equivale a uma lei brasileira nem determina, por si só, a interpretação jurídica de um caso concreto.
+
+### Legislação brasileira
 
 - [Lei nº 9.610/1998 — Direitos Autorais](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm).
 - [Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm).
 - [Lei nº 12.965/2014 — Marco Civil da Internet](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm).
-- [UNESCO — Recomendação sobre a Ética da Inteligência Artificial (2021)](https://unesdoc.unesco.org/ark:/48223/pf0000381137_por) — marco internacional de orientação ética para direitos humanos, dignidade, diversidade cultural, transparência e responsabilidade no desenvolvimento e uso da IA.
+
+### Outras referências de governança e gestão de riscos
+
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework).
 - [NIST AI Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)](https://doi.org/10.6028/NIST.AI.600-1).
 - [Princípios de IA da OCDE](https://oecd.ai/en/ai-principles).
