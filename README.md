@@ -180,9 +180,8 @@ A base completa da minha formação, com certificações, credenciais e respecti
 - **Apple Brasil — Especialista Técnico (janeiro de 2015 a outubro de 2022):** diagnóstico e reparo de dispositivos Apple, análise de registros e sintomas técnicos, suporte a iPhone, MacBook, iPad e Apple Watch, atuação em ambientes Windows, macOS e Linux e foco na qualidade do atendimento e na experiência do cliente.
 - **NTT DATA — experiência em infraestrutura e iniciativas de cloud e IA generativa (2024–2026):** atuação inicial em infraestrutura e posterior participação em atividades relacionadas a consultoria cloud, reuniões com clientes e projetos. Experiência de aprendizado e apresentação de conceitos de IA generativa na AWS, incluindo Amazon Bedrock, modelos fundacionais, RAG, Knowledge Bases, Agents e SageMaker. Participação em uma proposta de mentoria para estagiários com ferramentas Microsoft 365, incluindo SharePoint, Power Apps, Power Automate e Teams.
 
-**Formação acadêmica:** Tecnologia em Gestão da Tecnologia da Informação — SENAC, em andamento, com conclusão prevista para dezembro de 2026.
 
-Essas experiências são parte da formação que sustenta a abordagem do projeto; não significam, por si só, certificação profissional em engenharia de prompts, arquitetura cloud ou governança de IA.
+As formações, certificações e experiências documentadas demonstram conhecimentos em engenharia de prompts, inteligência artificial generativa, tecnologias cloud e aspectos éticos relacionados ao uso da IA. No Programador de Poemas, esses conhecimentos são aplicados e aprofundados por meio de experimentação, análise crítica e desenvolvimento de uma abordagem autoral que integra tecnologia, linguagem e criação artística. A documentação distingue as credenciais efetivamente obtidas, os conhecimentos desenvolvidos e as contribuições originais do projeto.
 
 ## O que este repositório é — e o que não é
 
