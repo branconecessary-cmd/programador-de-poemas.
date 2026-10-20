@@ -98,13 +98,14 @@ A intenção, a experiência vivida, a curadoria, a revisão e a decisão estét
 
 A análise de semelhança textual será sempre contextual. Não há um percentual universal que, isoladamente, comprove ou descarte plágio. Ferramentas podem auxiliar a localizar aproximações, mas não substituem a investigação das fontes, a análise humana nem o aconselhamento jurídico quando necessário.
 
-## Referências para aprofundamento
+## Referências legais e diretrizes para aprofundamento
 
-As referências abaixo oferecem pontos de contato com a discussão sobre IA responsável, direitos e governança. Sua inclusão orienta a reflexão; **não significa certificação, conformidade formal ou implementação integral** dos respectivos instrumentos no projeto.
+As referências abaixo reúnem legislação brasileira e marcos nacionais e internacionais de orientação para a discussão sobre IA responsável, direitos e governança. A Recomendação da UNESCO é uma diretriz ética internacional, não uma lei brasileira. Sua inclusão orienta a reflexão; **não significa certificação, conformidade formal ou implementação integral** dos respectivos instrumentos no projeto.
 
 - [Lei nº 9.610/1998 — Direitos Autorais](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm).
 - [Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm).
 - [Lei nº 12.965/2014 — Marco Civil da Internet](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm).
+- [UNESCO — Recomendação sobre a Ética da Inteligência Artificial (2021)](https://unesdoc.unesco.org/ark:/48223/pf0000381137_por) — marco internacional de orientação ética para direitos humanos, dignidade, diversidade cultural, transparência e responsabilidade no desenvolvimento e uso da IA.
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework).
 - [NIST AI Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)](https://doi.org/10.6028/NIST.AI.600-1).
 - [Princípios de IA da OCDE](https://oecd.ai/en/ai-principles).
