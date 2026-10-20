@@ -167,7 +167,7 @@ A lista abaixo registra cursos e credenciais relacionados a inteligência artifi
 
 ### Formação em andamento
 
-- **IoT — Internet das Coisas** — HBR Instituto Hardware BR, em andamento, no contexto de uma residência tecnológica com seleção para bolsa.
+- **HBR Instituto Hardware BR — formação em andamento:** participação ativa no programa, próximo da conclusão da primeira trilha, de Empreendedorismo. Em seguida, avançará para a trilha de Nuvem e, após concluir com êxito as etapas anteriores, ingressará na Residência de Tecnologia Aeroespacial.
 
 A lista é baseada nas informações disponíveis para esta versão pública. Quando os registros originais forem reunidos e conferidos, os nomes oficiais, emissores, datas e códigos poderão ser atualizados. Não são apresentados como obtidos certificados AWS Cloud Practitioner ou AWS Solutions Architect: o autor informou ter realizado exame AWS e possuir voucher para uma tentativa futura, mas não declarou essas certificações como concluídas.
 
