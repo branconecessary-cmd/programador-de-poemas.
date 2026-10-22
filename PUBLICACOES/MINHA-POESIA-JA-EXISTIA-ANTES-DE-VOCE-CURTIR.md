@@ -19,3 +19,5 @@ A poesia é a tecnologia da alma.
 A Invasão do Poeta
 
 #programador_de_poemas #oanalistadesistemapoeta #NaoPareAteSeOrgulhar
+
+Todos os direitos reservados.
