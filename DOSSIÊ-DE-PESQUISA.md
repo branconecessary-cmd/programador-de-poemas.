@@ -199,3 +199,211 @@ A existência de antecedentes sobre temas próximos não prova influência, cóp
 “A poesia é a tecnologia da alma.”
 
 © Patrick Branco Campos. Todos os direitos reservados.
+
+
+## 8. Segunda rodada de pesquisa: antecedentes mais próximos
+
+Esta rodada amplia o levantamento para incluir escrita criativa assistida por IA, negociação da voz autoral, acessibilidade para estudantes com deficiência e neurodivergência, poesia ligada à experiência vivida e estudos sobre prompts como prática literária. As fontes abaixo foram localizadas em páginas de editoras, anais de conferências, repositórios institucionais ou registros bibliográficos. A força da evidência varia conforme o tipo de publicação.
+
+### 8.1 From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice (2025)
+
+**Autores:** Alicia Guo, Shreya Sathyanarayanan, Leijie Wang, Jeffrey Heer e Amy X. Zhang.  
+**Publicação:** *Proceedings of the ACM Conference on Creativity and Cognition* (C&C 2025).  
+**DOI:** https://doi.org/10.1145/3698061.3726910
+
+**Acesso**
+- [Página do laboratório de pesquisa com resumo e PDF](https://idl.uw.edu/papers/from-pen-to-prompt)
+- [Anais oficiais da conferência C&C 2025](https://cc.acm.org/2025/proceedings/)
+- [DOI](https://doi.org/10.1145/3698061.3726910)
+
+**Método e achados descritos:** entrevistas e sessões observadas de escrita com 18 escritores criativos que já utilizavam IA regularmente. Os autores relatam que os escritores faziam escolhas deliberadas sobre quando e como envolver a IA, com base em valores como autenticidade e artesanato literário, e descrevem estratégias de integração e a importância da transparência.
+
+**Proximidade com o Programador de Poemas:** alta para o tema de valores autorais, decisões conscientes de uso da ferramenta e organização de um fluxo criativo. O estudo é um antecedente direto à ideia de que o escritor pode definir limites para a participação da IA.
+
+**Diferença a verificar:** o artigo observa práticas de escritores criativos; não se deve presumir que examine o mesmo conjunto de diretrizes, a mesma motivação de acessibilidade ou a mesma estrutura de documentação versionada do Programador de Poemas.
+
+### 8.2 Lyric Poetry in the Face of Posthumanism: An Analysis of Generative AI-Assisted Poetry Writing (2025)
+
+**Autores:** Yuxuan Huang, Jussi Holopainen e colaboradores conforme a ficha bibliográfica dos anais.  
+**Publicação:** *Proceedings of the 2025 Conference on Creativity and Cognition*, páginas 762–773.  
+**DOI:** https://doi.org/10.1145/3698061.3726919
+
+**Acesso**
+- [PDF da ACM](https://dl.acm.org/doi/pdf/10.1145/3698061.3726919)
+- [Página de referência do estudo](https://www.gamelabhk.org/post/lyric-poetry-in-the-face-of-posthumanism-an-analysis-of-generative-ai-assisted-poetry-writing)
+- [Anais da C&C 2025](https://cc.acm.org/2025/proceedings/)
+
+**Método e achados descritos:** entrevistas semiestruturadas com dez participantes de um concurso de poesia em inglês com IA e análise dos diálogos com sistemas de IA. O trabalho examina possibilidades, dificuldades e tensões entre autoexpressão humana e agência deslocada durante a colaboração.
+
+**Proximidade com o Programador de Poemas:** alta no campo da co-criação poética e da negociação da agência. É um antecedente que impede alegar que investigar a colaboração poética como negociação humano–máquina seja, por si só, inédito.
+
+**Limites:** amostra pequena, contexto de concurso de poesia em inglês e lente teórica específica. Não demonstra equivalência com uma prática autobiográfica continuada nem com um protocolo pessoal de acessibilidade.
+
+### 8.3 Authorial voice in human–machine writing with GenAI: plays and counterplays of meaning (2026)
+
+**Autoras:** Maryam Khosronejad, Mary Ryan e Kathy A. Mills.  
+**Publicação:** *The Australian Educational Researcher*, volume 53, artigo 90, publicado em 14 de setembro de 2026.  
+**DOI:** https://doi.org/10.1007/s13384-026-01018-4
+
+**Acesso**
+- [Página oficial e PDF aberto](https://link.springer.com/article/10.1007/s13384-026-01018-4)
+- [PDF direto do editor](https://link.springer.com/content/pdf/10.1007/s13384-026-01018-4.pdf)
+- [DOI](https://doi.org/10.1007/s13384-026-01018-4)
+
+**Método e achados descritos:** contribuição conceitual com três casos ilustrativos de interação reflexiva com ChatGPT 4.5. Examina como a intenção humana se alinha ou entra em conflito com o texto gerado e discute princípios como intertextualidade, reflexividade dialógica, multimodalidade e incorporação da experiência.
+
+**Proximidade com o Programador de Poemas:** muito alta para a preservação da voz e o controle humano sobre o significado. O artigo propõe que a voz autoral é relacional e dialógica e pode ser moldada ou limitada durante a interação.
+
+**Diferença a verificar:** o foco principal é escrita e pedagogia, com uma abordagem crítica e conceitual; não equivale automaticamente a um protocolo de produção e arquivamento de poemas autobiográficos.
+
+### 8.4 Exploring the affordances of generative AI in academic writing for students with disabilities: A bottom-up approach to inform GenAI policies (publicado on-line em 2025; volume de 2026)
+
+**Autores:** Xin Zhao, Xuanning Chen e Andrew Cox.  
+**Publicação:** *Policy Futures in Education*, volume 24, número 1, páginas 59–81.  
+**DOI:** https://doi.org/10.1177/14782103251395436
+
+**Acesso**
+- [Página oficial da SAGE, artigo de acesso aberto](https://journals.sagepub.com/doi/10.1177/14782103251395436)
+- [Repositório institucional White Rose](https://eprints.whiterose.ac.uk/id/eprint/236960/)
+- [DOI](https://doi.org/10.1177/14782103251395436)
+
+**Método e achados descritos:** pesquisa com 124 estudantes com deficiência no ensino superior, incluindo participantes com neurodivergência, dislexia e dificuldades de comunicação social. O estudo descreve utilidades percebidas da IA relacionadas a explicabilidade, expressividade e planejamento, mas também limitações ligadas, por exemplo, a motivação e gestão do tempo.
+
+**Proximidade com o Programador de Poemas:** alta para a dimensão de acessibilidade e apoio à expressão escrita. Dá suporte à relevância de investigar a IA como mediação de acesso à escrita, em vez de assumir que todo uso seja substituição de autoria.
+
+**Diferença essencial:** o foco é escrita acadêmica no ensino superior, não poesia autobiográfica. Os resultados são relatos e experiências de estudantes com deficiência em um contexto específico; não provam a eficácia de um protocolo poético particular.
+
+### 8.5 Reasonable adjustments for neurodivergent students in higher education: generative AI, accessibility, and mediated authorship (2026)
+
+**Autor:** Daniel Morgan.  
+**Publicação:** *Disability & Society*, 2026.  
+**DOI:** https://doi.org/10.1080/09687599.2026.2667528
+
+**Acesso**
+- [Página do artigo](https://doi.org/10.1080/09687599.2026.2667528)
+- [PDF disponível na página do editor](https://www.tandfonline.com/doi/pdf/10.1080/09687599.2026.2667528)
+
+**Tipo de evidência:** artigo de argumentação jurídica, política e conceitual sobre IA como apoio de acessibilidade para estudantes neurodivergentes. Propõe a ideia de autoria mediada e argumenta que o apoio à expressão pode coexistir com a autoria intelectual do estudante quando há revisão crítica e fidelidade à intenção.
+
+**Proximidade com o Programador de Poemas:** alta para o argumento de que a dificuldade de organizar ou expressar texto não elimina a autoria das ideias. Também é relevante para transparência sobre a mediação e verificação humana.
+
+**Limites:** não é um experimento sobre poesia nem uma validação do método do projeto. A análise jurídica refere-se principalmente ao contexto britânico; não deve ser tratada como parecer sobre a legislação brasileira.
+
+### 8.6 Human Voices and Algorithmic Echoes: Resignifying Transfeminine Experiences Through Hybrid Poetics Framework (2026)
+
+**Autores:** Neerej Dev e Silpa Joy.  
+**Publicação:** *International Journal of Human–Computer Interaction*, volume 42, número 18, páginas 14873–14903; publicado on-line em 28 de janeiro de 2026.  
+**DOI:** https://doi.org/10.1080/10447318.2026.2615218
+
+**Acesso**
+- [Artigo integral e PDF na página da editora](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2615218)
+- [DOI](https://doi.org/10.1080/10447318.2026.2615218)
+
+**Método e achados descritos:** estudo com dez participantes transfemininas na região de Kerala, Índia. Os pesquisadores recolheram relatos e realizaram atividades poéticas humanas e com IA, seguidas de avaliação de autoria e qualidade pelos participantes. O artigo apresenta um *Hybrid Poetics Framework* com três fases: narrativização, textualização e recepção. Os poemas humanos receberam avaliações superiores em qualidade emocional, atmosfera e estrutura; os poemas gerados por IA foram descritos como polidos, mas por vezes emocionalmente distantes.
+
+**Proximidade com o Programador de Poemas:** alta no cruzamento entre poesia, experiência vivida, identidade marginalizada, IA e autenticidade emocional. É um antecedente particularmente importante para discutir por que uma saída linguisticamente polida não é automaticamente fiel à experiência de quem escreve.
+
+**Diferenças e limites:** é uma pesquisa participativa com população, contexto cultural, perguntas e método específicos. O framework citado é voltado a narrativas de participantes, geração comparativa e avaliação coletiva; não deve ser confundido com o protocolo autoral individual do Programador de Poemas. O artigo não prova que os dois projetos sejam iguais, mas torna inadequada qualquer alegação genérica de que poesia com IA baseada em experiência marginalizada seja inédita.
+
+**Nota ética:** a comparação aqui se limita a métodos publicados e não exige divulgar dados pessoais, poemas privados ou instruções privadas do Programador de Poemas.
+
+### 8.7 Prompting as poetic practice: human–AI collaboration and the making of algorithmic literary voice (2026)
+
+**Autor:** Muhammad Khairul Umam.  
+**Publicação:** *Lingua Technica: Journal of Digital Literary Studies*, volume 2, número 2, páginas 105–122, publicado em 31 de julho de 2026.  
+**DOI:** https://doi.org/10.64595/lingtech.v2i2.153
+
+**Acesso**
+- [Página do artigo e opção de PDF](https://journal.arjunu.org/index.php/lingtech/article/view/153)
+- [DOI](https://doi.org/10.64595/lingtech.v2i2.153)
+
+**Método descrito:** análise qualitativa de 34 documentos públicos verificados e 41 unidades textuais, usando uma matriz de retórica de prompts, análise de sequências de negociação humano–IA e perfil de voz literária algorítmica.
+
+**Proximidade com o Programador de Poemas:** muito alta para documentação de prompts, revisão iterativa, distribuição de decisões e voz curada por humanos. O artigo afirma explicitamente integrar esses elementos em um framework auditável, o que é um antecedente metodológico importante.
+
+**Cautela de avaliação:** antes de atribuir o mesmo peso dado a publicações estabelecidas, é necessário avaliar o histórico editorial do periódico, a política de revisão por pares, a indexação e a rastreabilidade dos dados. A existência de DOI não prova, isoladamente, qualidade ou revisão por pares. O artigo deve ser incluído no mapa de antecedentes, mas sua força como evidência precisa de avaliação própria.
+
+### 8.8 PROMPT AS TEXT: TOWARDS A RHETORIC AND POETICS OF HUMAN–AI CO-COMPOSITION (2026)
+
+**Autor indicado no registro:** Md Siddique Hossain.  
+**Registro de material:** Mendeley Data, versão 1, publicado em 6 de setembro de 2026.  
+**DOI do registro:** https://doi.org/10.17632/7wxnx2y2tp.1
+
+**Acesso**
+- [Registro e arquivos para download](https://data.mendeley.com/datasets/7wxnx2y2tp/1)
+- [DOI do registro](https://doi.org/10.17632/7wxnx2y2tp.1)
+
+**Conteúdo descrito:** argumenta que o prompt deve ser entendido também como texto retórico e literário, e que a unidade adequada de análise pode ser a troca iterativa completa, incluindo proposta, resposta, correção e refinamento.
+
+**Proximidade com o Programador de Poemas:** alta para a ideia de que as instruções e o diálogo com a IA fazem parte do processo criativo, não sendo apenas comandos técnicos isolados.
+
+**Cautela importante:** a página consultada é um registro de dados/material e apresenta um resumo de argumento acadêmico. Não tratar o registro, por si só, como comprovação de publicação revisada por pares. Confirmar o estatuto editorial do manuscrito e a existência de uma versão publicada antes de classificá-lo como artigo científico consolidado.
+
+## 9. Comparação transversal: o que já existe e onde pode estar a contribuição do projeto
+
+| Elemento do Programador de Poemas | Antecedentes encontrados | Estado da hipótese de originalidade |
+|---|---|---|
+| Poesia em interação iterativa com IA | McGuire et al. (2024); Huang et al. (2025); Umam (2026) | Não é inédito isoladamente |
+| Decisão humana sobre aceitar, rejeitar e revisar sugestões | Guo et al. (2025); Khosronejad et al. (2026); Umam (2026) | Há antecedentes próximos; comparar procedimentos concretos |
+| Preservação da voz autoral e fidelidade à intenção | Khosronejad et al. (2026); Guo et al. (2025); Colella (2025) | Não é inédito como objetivo; possível diferença na operacionalização |
+| Acessibilidade para pessoas com deficiência/neurodivergência por meio de apoio à escrita | Zhao et al. (2025/2026); Morgan (2026) | Há antecedentes em escrita acadêmica; a aplicação específica à poesia autobiográfica pode ser diferencial contextual |
+| Poesia baseada em experiência vivida e identidades marginalizadas com comparação humano–IA | Dev & Joy (2026) | Antecedente muito próximo em tema geral; método e contexto diferem |
+| Prompts, diálogo e revisão como objetos de análise literária | Umam (2026); Hossain (registro de 2026) | Há antecedentes explícitos; avaliar diferenças do fluxo e do registro |
+| Regras privadas de consentimento antes de alterar instruções fundamentais | Não demonstrado como diferencial exclusivo pelo levantamento atual | Precisa ser comparado com práticas de controle de versões, coescrita e governança de IA; não declarar ineditismo |
+| Arquivo de processo, versionamento e pesquisa de similaridade associados à prática poética | Há práticas de documentação e auditabilidade em pesquisas acadêmicas; não foi demonstrado ainda um equivalente idêntico | Possível contribuição organizacional, mas ainda não comprovada como novidade |
+| Combinação de autobiografia, apoio à expressão, identidade artística, governança, documentação e investigação crítica | Elementos individuais aparecem em fontes distintas | Principal hipótese de contribuição específica do projeto; requer análise do conjunto e exemplos reais documentados |
+
+## 10. Avaliação da força das fontes
+
+A qualidade e a natureza das fontes não são uniformes. Para uma conclusão responsável:
+
+1. **Artigos em periódicos científicos estabelecidos e anais de conferências reconhecidas:** priorizar leitura integral, métodos, dados, limitações e referências. Exemplos deste dossiê incluem *Scientific Reports*, *AI & Society*, *The Australian Educational Researcher*, *Policy Futures in Education*, *International Journal of Human–Computer Interaction* e os anais da ACM Creativity & Cognition.
+2. **Teses em repositórios universitários:** podem fornecer investigação aprofundada e bibliografia extensa; avaliar a tese, a instituição e o escopo.
+3. **Periódicos recentes ou de reputação ainda não avaliada:** manter no levantamento, mas verificar equipe editorial, indexação, revisão por pares, políticas de ética e disponibilidade dos dados. Um DOI, isoladamente, não certifica a qualidade do conteúdo.
+4. **Registros de dados ou manuscritos:** úteis para identificar ideias e versões, mas não equivalem automaticamente a artigos revisados por pares.
+5. **Páginas de resumo, divulgação ou blogs:** úteis para localizar trabalhos, mas a interpretação final deve se apoiar na publicação primária sempre que possível.
+
+O artigo de Umam e o registro de Hossain são relevantes para a busca, mas precisam de avaliação editorial específica antes de receber o mesmo peso que um artigo experimental publicado em periódico bem estabelecido ou um trabalho de anais de conferência reconhecida.
+
+## 11. Resultado provisório da pesquisa de originalidade
+
+A evidência consultada sustenta quatro conclusões provisórias:
+
+**Conclusão 1 — O campo já existe.** A escrita poética assistida por IA, a colaboração iterativa, a negociação da voz, a autoria mediada e o uso da IA como apoio à expressão já são objeto de pesquisa. O projeto não deve alegar que inventou essas práticas em termos gerais.
+
+**Conclusão 2 — Há antecedentes muito próximos de componentes centrais.** Em especial, pesquisas de 2025–2026 abordam a integração intencional da IA por escritores, a preservação da voz autoral, a acessibilidade da escrita para pessoas com deficiência e a criação poética a partir de experiências vividas. Esses trabalhos precisam ser citados em qualquer apresentação acadêmica futura do projeto.
+
+**Conclusão 3 — A combinação específica permanece uma hipótese aberta.** O levantamento não demonstrou que um único projeto reúna exatamente os mesmos objetivos, regras, contexto autobiográfico, decisões de controle humano, preocupação com acessibilidade e organização documental. Porém, a ausência de um equivalente identificado numa busca limitada não prova que ele não exista. A formulação defensável é “não foi identificado um equivalente exato nas fontes consultadas”, e não “não existe outro projeto igual”.
+
+**Conclusão 4 — O diferencial deve ser demonstrado pelo processo documentado.** Para sustentar uma contribuição metodológica, será preciso explicitar as etapas, registrar exemplos de decisões, mostrar como as regras são aplicadas, diferenciar instruções de trabalho de resultados publicados e indicar limites. Uma descrição convincente do projeto é necessária, mas não substitui a comparação com a literatura.
+
+## 12. Formulação recomendada para apresentar o projeto
+
+> O Programador de Poemas é uma prática autoral de criação poética assistida por inteligência artificial que investiga a relação entre experiência autobiográfica, acessibilidade à expressão escrita, preservação da voz humana, controle autoral e documentação do processo criativo. Em diálogo com pesquisas já existentes sobre co-criação humano–IA, autoria mediada e escrita acessível, o projeto busca documentar e examinar sua própria combinação de princípios e procedimentos, sem pressupor ineditismo antes da comparação crítica com os antecedentes relevantes.
+
+Essa formulação comunica a proposta sem apagar trabalhos anteriores nem atribuir ao projeto uma novidade ainda não demonstrada.
+
+## 13. O que ainda falta antes de considerar a investigação encerrada
+
+- Ler integralmente as fontes prioritárias, sobretudo Guo et al. (2025), Huang et al. (2025), Khosronejad et al. (2026), Zhao et al. (2025/2026), Morgan (2026) e Dev & Joy (2026).
+- Verificar a ficha completa, o estatuto editorial e os métodos dos artigos recentes em periódicos menos estabelecidos.
+- Examinar referências citadas por esses trabalhos para localizar estudos anteriores que a busca por palavras-chave pode não ter encontrado.
+- Comparar cada regra efetiva do projeto com as descrições metodológicas dos artigos, usando apenas documentação do projeto autorizada para essa finalidade.
+- Registrar a data, os termos de busca, os critérios de inclusão/exclusão e as bases consultadas numa trilha de auditoria.
+- Distinguir claramente originalidade artística de poemas específicos, novidade metodológica e contribuição científica.
+- Não usar detectores automáticos de IA ou de plágio como prova conclusiva de autoria ou ausência de influência.
+
+## 14. Referências prioritárias adicionadas nesta rodada
+
+1. Guo, A. et al. (2025). *From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice.* ACM Creativity & Cognition. https://doi.org/10.1145/3698061.3726910
+2. Huang, Y. et al. (2025). *Lyric Poetry in the Face of Posthumanism: An Analysis of Generative AI-Assisted Poetry Writing.* ACM Creativity & Cognition. https://doi.org/10.1145/3698061.3726919
+3. Khosronejad, M., Ryan, M., & Mills, K. A. (2026). *Authorial voice in human–machine writing with GenAI: plays and counterplays of meaning.* The Australian Educational Researcher. https://doi.org/10.1007/s13384-026-01018-4
+4. Zhao, X., Chen, X., & Cox, A. (2025/2026). *Exploring the affordances of generative AI in academic writing for students with disabilities: A bottom-up approach to inform GenAI policies.* Policy Futures in Education. https://doi.org/10.1177/14782103251395436
+5. Morgan, D. (2026). *Reasonable adjustments for neurodivergent students in higher education: generative AI, accessibility, and mediated authorship.* Disability & Society. https://doi.org/10.1080/09687599.2026.2667528
+6. Dev, N., & Joy, S. (2026). *Human Voices and Algorithmic Echoes: Resignifying Transfeminine Experiences Through Hybrid Poetics Framework.* International Journal of Human–Computer Interaction. https://doi.org/10.1080/10447318.2026.2615218
+7. Umam, M. K. (2026). *Prompting as poetic practice: human–AI collaboration and the making of algorithmic literary voice.* Lingua Technica: Journal of Digital Literary Studies. https://doi.org/10.64595/lingtech.v2i2.153
+8. Hossain, M. S. (2026). *PROMPT AS TEXT: TOWARDS A RHETORIC AND POETICS OF HUMAN–AI CO-COMPOSITION.* Mendeley Data record. https://doi.org/10.17632/7wxnx2y2tp.1
+
+---
+
+**Estado do documento:** segunda rodada de pesquisa acrescentada; conclusão de originalidade ainda provisória. Não é certificado de originalidade, parecer jurídico nem prova de ausência de influência. A pesquisa deverá ser encerrada somente depois da verificação e fichamento das fontes prioritárias e do registro explícito das limitações.
