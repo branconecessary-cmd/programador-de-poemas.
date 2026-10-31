@@ -6,7 +6,7 @@ O **Programador de Poemas** é um projeto autoral de criação e investigação 
 
 **A Invasão do Poeta** é a assinatura artística. **O Analista de Sistemas Poeta** representa o encontro entre pensamento técnico, investigação e expressão humana.
 
-Este repositório público apresenta a proposta, os princípios, o método, as referências e a formação relacionada ao projeto. O acervo poético e as instruções privadas de trabalho não fazem parte desta publicação. Enquanto esse material permanece reservado, parte da expressão artística pode ser acompanhada no [Instagram @patrickbrancoo](https://www.instagram.com/patrickbrancoo/).
+Este repositório público apresenta a história, a proposta, os princípios, as referências e a formação relacionada ao projeto. O acervo poético e as instruções privadas de trabalho não fazem parte desta publicação. Enquanto esse material permanece reservado, parte da expressão artística pode ser acompanhada no [Instagram @patrickbrancoo](https://www.instagram.com/patrickbrancoo/).
 
 ## O propósito: aproximar a arte da tecnologia sem perder a essência humana
 
@@ -60,20 +60,13 @@ O mesmo vale para a linguagem figurada. Uma analogia pode não ser literal e ain
 
 O projeto investiga, assim, como orientar modelos de linguagem para lidar com a singularidade da expressão humana, inclusive quando a criação cruza poesia, lógica, espiritualidade, metáfora e tecnologia. Isso não significa afirmar que o modelo sente ou compreende a experiência como uma pessoa. Significa investigar como contexto e instruções podem ajudar a ferramenta a responder de maneira mais adequada à intenção comunicada.
 
-## Como o método funciona
+## A colaboração entre criação humana e inteligência artificial
 
-O processo é iterativo, não uma linha de montagem de poemas. Cada etapa pode levar de volta à anterior, porque criar também é investigar.
+O Programador de Poemas investiga a colaboração entre a experiência humana e os recursos da inteligência artificial generativa na criação literária. A proposta parte de uma distinção essencial: a tecnologia pode apoiar a organização de ideias, a exploração da linguagem e a reflexão sobre possibilidades, mas não substitui a vivência, a intenção, o julgamento estético nem a responsabilidade de quem cria.
 
-1. **Intenção e contexto humano.** O ponto de partida é uma experiência, observação, memória, pergunta, conceito ou inquietação. O contexto orienta o sentido.
-2. **Formulação da interação.** Objetivo, contexto, instruções e restrições são organizados para orientar o diálogo com o modelo.
-3. **Geração e exploração.** A IA propõe possibilidades de linguagem e organização. As respostas são material para análise, não uma verdade nem uma obra automaticamente pronta.
-4. **Observação e iteração.** Respostas que desviam da intenção são identificadas; instruções e contexto podem ser revistos e testados novamente.
-5. **Curadoria e revisão humana.** O autor examina sentido, ritmo, imagens, lógica, analogias, voz e efeitos. Aceitar, alterar ou descartar sugestões faz parte do processo autoral.
-6. **Revisão linguística com preservação da voz.** A gramática pode ser examinada sem apagar expressões deliberadas, neologismos, contradições poéticas ou rupturas de estilo.
-7. **Investigação de semelhança.** Possíveis aproximações com outros textos são examinadas considerando contexto, estrutura, imagens, sentido e histórico de criação. Coincidência lexical isolada não comprova plágio; uma ferramenta de similaridade também não substitui análise crítica ou avaliação jurídica.
-8. **Decisão e responsabilidade.** A versão final passa por julgamento humano. A ferramenta pode apoiar a elaboração, mas não assume a responsabilidade artística, ética ou legal pela publicação.
+A construção do projeto é contínua e acompanhada de reflexão crítica. O autor observa os resultados, considera limites e possibilidades dos modelos e decide o que representa sua intenção. Essa experiência é apresentada como prática autoral e campo de observação, não como comprovação científica universal nem como método validado externamente.
 
-Esse ciclo aproxima-se de uma abordagem *human-in-the-loop*: a participação humana orienta a avaliação ao longo do processo, e não apenas no início ou no fim. Os procedimentos são passíveis de aprimoramento à medida que a investigação evolui.
+As instruções internas, os registros operacionais e os materiais privados que orientam a colaboração não integram esta apresentação pública. O que se compartilha aqui são a identidade do projeto, seus princípios, sua fundamentação e as reflexões que podem ser comunicadas sem expor o acervo reservado ou a organização interna do trabalho.
 
 ## Princípios técnicos, éticos e autorais
 
@@ -184,7 +177,7 @@ As formações, certificações e experiências documentadas demonstram conhecim
 
 ## O que este repositório é — e o que não é
 
-Este repositório público documenta a identidade, o propósito, os princípios, o método e as referências do Programador de Poemas. Ele busca permitir que artistas, pesquisadores e profissionais de tecnologia compreendam a proposta, examinem suas perguntas e acompanhem sua evolução.
+Este repositório público apresenta a identidade, a história, o propósito, os princípios e as referências do Programador de Poemas. Reúne também a trajetória formativa e profissional relacionada à criação do projeto, para que artistas, pesquisadores e profissionais de tecnologia compreendam sua origem, seus objetivos e seu campo de interesse.
 
 Neste estágio, não é um modelo de linguagem próprio, uma aplicação executável, um serviço comercial ou um detector automatizado de plágio. Não afirma que todas as hipóteses estejam comprovadas nem que o método esteja finalizado. Resultados, ferramentas ou implementações específicas só devem ser atribuídos ao projeto quando estiverem documentados e puderem ser verificados.
 
@@ -192,7 +185,7 @@ O Prompt-Mestre, as instruções privadas de trabalho e o acervo poético não s
 
 ## Próximos caminhos
 
-O projeto poderá desenvolver documentação mais detalhada, critérios de avaliação, registros de experimentação e estudos sobre interação humano-IA, autoria, linguagem figurada e comportamento de modelos. Essas possibilidades podem contribuir para investigações futuras e, eventualmente, trabalhos acadêmicos. São caminhos a desenvolver, não resultados já alcançados.
+O projeto poderá aprofundar estudos sobre interação humano-IA, autoria, linguagem figurada e comportamento de modelos, compartilhando publicamente apenas resultados, reflexões e materiais cuja divulgação seja apropriada. Essas possibilidades podem contribuir para investigações futuras e, eventualmente, trabalhos acadêmicos. São caminhos a desenvolver, não resultados já alcançados.
 
 O método poderá evoluir, as instruções poderão ser revistas e as técnicas poderão ser aprimoradas. O compromisso fundamental, porém, não muda: **a tecnologia pode participar da construção, mas o olhar poético humano não pode desaparecer do contexto da obra.**
 
