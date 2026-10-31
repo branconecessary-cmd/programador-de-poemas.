@@ -1,126 +1,22 @@
 # Programador de Poemas
 
-**A poesia é a tecnologia da alma.** E a tecnologia, quando encontra a experiência humana, também precisa aprender a escutar.
+**A poesia é a tecnologia da alma.**
 
-O **Programador de Poemas** é um projeto autoral de criação e investigação sobre inteligência artificial generativa, poesia, linguagem, autoria e interação humano-IA. Não é apenas um gerador de poemas, um modelo de linguagem próprio ou uma aplicação comercial pronta. É um projeto em desenvolvimento que investiga como a IA pode participar de um processo artístico sem substituir a experiência, a intenção, a autonomia e o olhar poético de quem cria.
+O **Programador de Poemas** é um projeto autoral de Patrick Branco Campos que aproxima literatura, tecnologia e inteligência artificial generativa. Seu propósito é explorar possibilidades de colaboração entre criação humana e ferramentas de IA, mantendo a autoria, a experiência e a decisão criativa sob responsabilidade de quem escreve.
 
-**A Invasão do Poeta** é a assinatura artística. **O Analista de Sistemas Poeta** representa o encontro entre pensamento técnico, investigação e expressão humana.
+**A Invasão do Poeta** é a assinatura artística. **O Analista de Sistemas Poeta** representa o encontro entre pensamento técnico e expressão humana.
 
-Este repositório público apresenta a história, a proposta, os princípios, as referências e a formação relacionada ao projeto. O acervo poético e as instruções privadas de trabalho não fazem parte desta publicação. Enquanto esse material permanece reservado, parte da expressão artística pode ser acompanhada no [Instagram @patrickbrancoo](https://www.instagram.com/patrickbrancoo/).
+Este espaço é uma apresentação pública do autor e de seu trabalho. Não é um manual, uma documentação operacional nem um repositório de pesquisa interna.
 
-## O propósito: aproximar a arte da tecnologia sem perder a essência humana
+## Sobre o projeto
 
-O projeto parte de uma pergunta: como a inteligência artificial generativa pode colaborar com artistas de maneira consciente, responsável e ética, sem apagar aquilo que torna cada criação singular?
+O Programador de Poemas nasceu do encontro entre tecnologia, linguagem e criação literária. É um trabalho autoral em desenvolvimento, dedicado a refletir sobre as relações entre inteligência artificial, expressão humana e literatura.
 
-Muitos artistas mantêm distância da IA por diferentes motivos, entre eles a falta de familiaridade com suas possibilidades e a desconfiança alimentada por usos indiscriminados. A produção em massa orientada pela viralização, a falta de transparência e a apresentação de resultados generativos sem esclarecer a participação da ferramenta podem comprometer a credibilidade da interação entre IA e arte. Essas práticas dificultam distinguir um uso superficial da tecnologia de um processo criativo conduzido com intenção, curadoria, revisão e responsabilidade autoral.
+A proposta é compartilhar uma visão artística e humana sobre as possibilidades da IA, sem substituir a identidade, a experiência ou a autoria de quem cria.
 
-Nem toda pessoa que utiliza IA age dessa forma, assim como nem toda pessoa que rejeita a ferramenta o faz por desconhecimento. O objetivo não é desqualificar artistas nem defender todo uso da tecnologia. É questionar esse paradigma e contribuir para uma relação mais consciente entre criação humana e IA.
+## Sobre o autor
 
-Quero compartilhar conhecimento para que artistas aprendam a orientar a ferramenta sem entregar a ela sua identidade criativa, seu pensamento crítico ou sua autonomia. A IA precisa ser uma aliada, não a autoridade que determina o que o artista deve criar. É a pessoa quem define o propósito, oferece contexto, avalia as respostas, rejeita o que não representa sua intenção e assume a responsabilidade pelo que decide publicar.
-
-Quando deixamos a tecnologia decidir por nós, sem reflexão ou direção, corremos o risco de reproduzir mais do mesmo. A facilidade de obter um resultado não é, por si só, evidência de um processo artístico consciente.
-
-**Não quero ensinar artistas a depender da IA. Quero contribuir para que aprendam a trabalhar com ela sem deixar de ser autores.**
-
-## A investigação começa na prática
-
-Minha pesquisa nasce da própria experiência de criação. Observo como os modelos de linguagem respondem às minhas intenções, identifico comportamentos que não respeitam o contexto pretendido, reformulo instruções, avalio alternativas e acompanho como essas mudanças interferem no processo criativo.
-
-Sou criador e também participante e observador da investigação que desenvolvo sobre minha interação com a tecnologia. Essa prática pessoal é um campo de observação e aprendizagem; não a apresento como um experimento social formalmente validado nem como prova universal sobre o comportamento de todos os modelos. As observações precisam permanecer abertas a revisão, comparação e investigação futura.
-
-O projeto procura tornar esse percurso compreensível: não apenas mostrar um resultado, mas documentar perguntas, decisões, limites e princípios que ajudam a explicar como o trabalho é conduzido.
-
-## Engenharia de prompts em um processo artístico
-
-A prática do projeto reúne elementos associados à engenharia de prompts: definir uma intenção, fornecer contexto, formular instruções, estabelecer restrições, observar respostas, identificar desvios, reformular orientações e avaliar se o resultado atende ao objetivo humano.
-
-A contribuição não está em afirmar controle absoluto sobre um modelo, mas em investigar como uma interação mais bem contextualizada pode produzir respostas mais alinhadas ao propósito artístico. A documentação distingue o que foi observado na prática do que ainda precisa ser testado ou aprofundado. O projeto não afirma que esses procedimentos, por si sós, constituam uma metodologia científica validada ou garantam resultados específicos.
-
-A experiência de um analista de sistemas também influencia essa abordagem: compreender o problema antes de propor uma solução, considerar o contexto de quem vai utilizar o resultado, examinar comportamentos, reconhecer limitações e não confundir uma resposta tecnicamente plausível com uma resposta adequada à necessidade real.
-
-## Licença Poética e Voz Autoral
-
-Um dos princípios centrais do projeto nasceu de uma dificuldade concreta na interação com modelos de linguagem: expressões incomuns, analogias, contradições intencionais e escolhas poéticas podem ser tratadas automaticamente como erros a corrigir. Uma alteração desse tipo pode modificar justamente o sentido que o autor pretendia preservar.
-
-Não reivindico a invenção da licença poética. O que desenvolvi foi uma forma própria de contextualizar esse princípio na interação com a IA, para que a ferramenta considere a intenção artística antes de corrigir, normalizar ou substituir uma expressão.
-
-**“Se uma expressão não fizer sentido para o assistente, isso não significa que não tenha sentido para a poesia. A dúvida deve gerar uma pergunta, não uma correção automática.”**
-
-Esse princípio não exige que a IA concorde com toda escolha nem impede a revisão. Exige que ela não trate automaticamente o padrão convencional como autoridade superior à intenção artística. Se houver dúvida, deve perguntar; se uma sugestão puder alterar o sentido original, deve explicitar a dúvida em vez de reescrever por conta própria. A decisão final permanece com o autor.
-
-A estrutura técnica deve servir à expressão humana, nunca ocupar o lugar dela. A Licença Poética e Voz Autoral pode ser aprimorada, revisada e desenvolvida, mas seu compromisso fundamental não muda: **o olhar poético humano precisa permanecer vivo em tudo o que for construído.**
-
-## Linguagem técnica, analogia e tradução poética
-
-A poesia do projeto atravessa espiritualidade, interdimensionalidade, relações entre tecnologia e experiência humana, além de explorar a própria linguagem da programação. Em algumas criações, conceitos e estruturas de Python tornam-se matéria poética.
-
-Traduzir uma ideia técnica para uma linguagem acessível não significa necessariamente eliminar sua lógica. Pode significar encontrar uma analogia, uma imagem ou uma forma de expressão que ajude o público a perceber o conceito por outro caminho. O desafio é preservar o sentido relevante e, ao mesmo tempo, tornar a ideia compreensível a quem não tem formação técnica.
-
-O mesmo vale para a linguagem figurada. Uma analogia pode não ser literal e ainda assim funcionar no contexto em que foi criada. Por isso, a avaliação de uma expressão precisa considerar sua função, o contexto e a intenção, e não apenas sua correspondência literal com os fatos. A IA pode apontar ambiguidades e sugerir interpretações; não deve concluir automaticamente que uma imagem poética não faz sentido apenas porque é incomum.
-
-O projeto investiga, assim, como orientar modelos de linguagem para lidar com a singularidade da expressão humana, inclusive quando a criação cruza poesia, lógica, espiritualidade, metáfora e tecnologia. Isso não significa afirmar que o modelo sente ou compreende a experiência como uma pessoa. Significa investigar como contexto e instruções podem ajudar a ferramenta a responder de maneira mais adequada à intenção comunicada.
-
-## A colaboração entre criação humana e inteligência artificial
-
-O Programador de Poemas investiga a colaboração entre a experiência humana e os recursos da inteligência artificial generativa na criação literária. A proposta parte de uma distinção essencial: a tecnologia pode apoiar a organização de ideias, a exploração da linguagem e a reflexão sobre possibilidades, mas não substitui a vivência, a intenção, o julgamento estético nem a responsabilidade de quem cria.
-
-A construção do projeto é contínua e acompanhada de reflexão crítica. O autor observa os resultados, considera limites e possibilidades dos modelos e decide o que representa sua intenção. Essa experiência é apresentada como prática autoral e campo de observação, não como comprovação científica universal nem como método validado externamente.
-
-As instruções internas, os registros operacionais e os materiais privados que orientam a colaboração não integram esta apresentação pública. O que se compartilha aqui são a identidade do projeto, seus princípios, sua fundamentação e as reflexões que podem ser comunicadas sem expor o acervo reservado ou a organização interna do trabalho.
-
-## Princípios técnicos, éticos e autorais
-
-- **Centralidade humana:** experiência, intenção, seleção, revisão e julgamento do autor orientam o processo.
-- **Uso crítico de modelos de linguagem (LLMs):** respostas generativas estão sujeitas a erro, viés, limitações de contexto e alucinações.
-- **Engenharia de prompts:** instruções e contexto são estruturados para investigar alternativas, sem prometer controle absoluto.
-- **Licença Poética e Voz Autoral:** expressões singulares não devem ser corrigidas automaticamente sem considerar contexto e intenção.
-- **Avaliação contextual:** semelhança textual é um motivo para investigar, não uma sentença automática sobre autoria ou plágio.
-- **Transparência:** a participação da ferramenta deve ser descrita honestamente, sem apagar a contribuição humana nem esconder o apoio tecnológico.
-- **Rastreabilidade:** referências, critérios e decisões relevantes devem ser documentados sempre que possível.
-- **Ética e governança:** o uso da IA deve considerar riscos, direitos autorais, propriedade intelectual, privacidade, proteção de dados e consequências para as pessoas envolvidas.
-- **Limites epistemológicos:** experiência pessoal, espiritualidade e reflexão artística podem coexistir com investigação técnica, sem serem apresentadas como comprovação científica.
-- **Aprendizado contínuo:** o método e a documentação podem ser revistos, desde que a autoria humana e o olhar poético permaneçam princípios fundamentais.
-
-A honestidade com a arte é um compromisso inegociável. Não significa negar a participação da IA, mas tornar compreensível o papel de cada parte. A credibilidade precisa nascer da coerência entre aquilo que o projeto defende e aquilo que sua prática consegue demonstrar.
-
-## Autoria, responsabilidade e integridade
-
-O projeto não parte da ideia de que utilizar IA seja, por si só, incompatível com autoria humana. Também não presume que toda saída de um modelo possa ser apresentada como criação exclusivamente humana sem reflexão sobre o processo. O compromisso é examinar com honestidade a contribuição da pessoa, o apoio da ferramenta, as escolhas feitas e a responsabilidade pela publicação.
-
-A intenção, a experiência vivida, a curadoria, a revisão e a decisão estética não são detalhes acessórios. São elementos centrais do processo documentado aqui. A IA pode sugerir, organizar, explorar possibilidades e ajudar a refinar; não deve apagar a singularidade de quem cria.
-
-A análise de semelhança textual será sempre contextual. Não há um percentual universal que, isoladamente, comprove ou descarte plágio. Ferramentas podem auxiliar a localizar aproximações, mas não substituem a investigação das fontes, a análise humana nem o aconselhamento jurídico quando necessário.
-
-## Referências legais e diretrizes para aprofundamento
-
-Esta seção reúne legislação brasileira e referências internacionais de ética e governança da inteligência artificial. A Recomendação da UNESCO é um instrumento normativo internacional de orientação ética, não uma lei brasileira. As referências servem como base para estudo e análise; sua inclusão **não significa certificação, conformidade formal ou validação institucional** do Programador de Poemas.
-
-### UNESCO — Recomendação sobre a Ética da Inteligência Artificial
-
-**Referência completa:** UNESCO. *Recomendação sobre a Ética da Inteligência Artificial*. Aprovada pela Conferência Geral da UNESCO em 23 de novembro de 2021. Publicada em português em 2022, Paris: Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO). Identificador editorial: SHS/BIO/PI/2021/1.
-
-- [Consultar a publicação integral oficial em português (UNESCO)](https://unesdoc.unesco.org/ark:/48223/pf0000381137_por).
-- [Consultar a versão oficial em PDF](https://unesdoc.unesco.org/in/documentViewer.xhtml?ark=%2Fark%3A%2F48223%2Fpf0000381137_por%2FPDF%2F381137por.pdf).
-
-A Recomendação apresenta valores e princípios para orientar o desenvolvimento e o uso ético da IA, com foco em direitos humanos e dignidade, diversidade e inclusão, transparência e explicabilidade, responsabilidade, supervisão humana, privacidade e governança de dados, segurança e sustentabilidade. O documento também aborda onze áreas de ação política: avaliação de impacto ético; governança e gestão ética; política de dados; desenvolvimento e cooperação internacional; meio ambiente e ecossistemas; gênero; cultura; educação e pesquisa; comunicação e informação; economia e trabalho; e saúde e bem-estar social.
-
-**Relação com o Programador de Poemas:** esta referência oferece um marco ético para discutir a centralidade da pessoa no processo criativo, a preservação da voz autoral, a transparência sobre a participação da IA, a curadoria e a responsabilidade humanas, a diversidade das expressões culturais e os limites do uso de sistemas generativos. Esses pontos são orientações para a análise do projeto, não resultados comprovados nem uma declaração de que o projeto tenha sido avaliado ou aprovado pela UNESCO.
-
-**Relação com a legislação brasileira:** a Recomendação pode ser lida em conjunto com as leis abaixo, sem substituí-las ou alterar seu alcance jurídico. A Lei de Direitos Autorais trata da proteção das obras e dos direitos autorais; a LGPD trata da proteção de dados pessoais; e o Marco Civil da Internet estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. A Recomendação da UNESCO oferece um enquadramento ético internacional complementar; não equivale a uma lei brasileira nem determina, por si só, a interpretação jurídica de um caso concreto.
-
-### Legislação brasileira
-
-- [Lei nº 9.610/1998 — Direitos Autorais](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm).
-- [Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm).
-- [Lei nº 12.965/2014 — Marco Civil da Internet](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm).
-
-### Outras referências de governança e gestão de riscos
-
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework).
-- [NIST AI Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)](https://doi.org/10.6028/NIST.AI.600-1).
-- [Princípios de IA da OCDE](https://oecd.ai/en/ai-principles).
-
-Esses materiais são referências para estudo e reflexão. A aplicação concreta de leis e normas depende do contexto e, quando necessário, de orientação profissional qualificada.
+Patrick Branco Campos reúne experiência profissional em tecnologia, infraestrutura, suporte técnico e iniciativas relacionadas a cloud e inteligência artificial, além de uma produção literária autoral. Sua formação e experiência são apresentadas abaixo.
 
 ## Formação e credenciais relacionadas
 
@@ -175,36 +71,16 @@ A base completa da minha formação, com certificações, credenciais e respecti
 
 As formações, certificações e experiências documentadas demonstram conhecimentos em engenharia de prompts, inteligência artificial generativa, tecnologias cloud e aspectos éticos relacionados ao uso da IA. No Programador de Poemas, esses conhecimentos são aplicados e aprofundados por meio de experimentação, análise crítica e desenvolvimento de uma abordagem autoral que integra tecnologia, linguagem e criação artística. A documentação distingue as credenciais efetivamente obtidas, os conhecimentos desenvolvidos e as contribuições originais do projeto.
 
-## O que este repositório é — e o que não é
-
-Este repositório público apresenta a identidade, a história, o propósito, os princípios e as referências do Programador de Poemas. Reúne também a trajetória formativa e profissional relacionada à criação do projeto, para que artistas, pesquisadores e profissionais de tecnologia compreendam sua origem, seus objetivos e seu campo de interesse.
-
-Neste estágio, não é um modelo de linguagem próprio, uma aplicação executável, um serviço comercial ou um detector automatizado de plágio. Não afirma que todas as hipóteses estejam comprovadas nem que o método esteja finalizado. Resultados, ferramentas ou implementações específicas só devem ser atribuídos ao projeto quando estiverem documentados e puderem ser verificados.
-
-As instruções internas, os registros operacionais e o acervo poético reservado não são publicados neste repositório. Essa separação permite apresentar a história, os fundamentos e as referências do projeto sem expor materiais privados de pesquisa e criação.
-
-## Próximos caminhos
-
-O projeto poderá aprofundar estudos sobre interação humano-IA, autoria, linguagem figurada e comportamento de modelos, compartilhando publicamente apenas resultados, reflexões e materiais cuja divulgação seja apropriada. Essas possibilidades podem contribuir para investigações futuras e, eventualmente, trabalhos acadêmicos. São caminhos a desenvolver, não resultados já alcançados.
-
-O método poderá evoluir, as instruções poderão ser revistas e as técnicas poderão ser aprimoradas. O compromisso fundamental, porém, não muda: **a tecnologia pode participar da construção, mas o olhar poético humano não pode desaparecer do contexto da obra.**
-
-Quero investigar como a IA pode colaborar com quem cria sem ocupar o lugar de quem cria. Não para provar que a máquina sente, nem para delegar a ela a autoria, mas para construir uma relação em que contexto, intenção, responsabilidade e liberdade artística sejam considerados.
-
-## Conheça e acompanhe
-
-O GitHub apresenta a documentação conceitual e técnica do projeto. O Instagram reúne publicações em que a expressão artística aparece de forma viva enquanto o acervo completo permanece reservado.
+## Acompanhe o trabalho
 
 **Instagram:** [@patrickbrancoo](https://www.instagram.com/patrickbrancoo/)
 
-O Programador de Poemas convida poetas, artistas, pesquisadores e profissionais de tecnologia a examinar a proposta e dialogar sobre formas responsáveis de aproximar inteligência artificial e criação humana.
+**LinkedIn:** [Patrick Branco Campos](https://www.linkedin.com/in/patrick-branco-campos-56a0a297/)
 
 **A Invasão do Poeta**
-
-#programador_de_poemas #oanalistadesistemapoeta #NaoPareAteSeOrgulhar
 
 ## Direitos autorais
 
 © Patrick Branco Campos. Todos os direitos reservados.
 
-O conteúdo original deste projeto está sujeito à legislação aplicável de direitos autorais. A disponibilização pública desta documentação não autoriza a reprodução, adaptação ou exploração comercial de obras autorais sem a devida autorização, ressalvadas as hipóteses legais aplicáveis.
+O conteúdo original deste projeto está sujeito à legislação aplicável de direitos autorais. A disponibilização pública desta apresentação não autoriza a reprodução, adaptação ou exploração comercial de obras autorais sem a devida autorização, ressalvadas as hipóteses legais aplicáveis.
