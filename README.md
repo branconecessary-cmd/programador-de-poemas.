@@ -181,7 +181,7 @@ Este repositório público apresenta a identidade, a história, o propósito, os
 
 Neste estágio, não é um modelo de linguagem próprio, uma aplicação executável, um serviço comercial ou um detector automatizado de plágio. Não afirma que todas as hipóteses estejam comprovadas nem que o método esteja finalizado. Resultados, ferramentas ou implementações específicas só devem ser atribuídos ao projeto quando estiverem documentados e puderem ser verificados.
 
-O Prompt-Mestre, as instruções privadas de trabalho e o acervo poético não são publicados neste repositório. Essa separação permite compartilhar os fundamentos públicos sem expor materiais privados de pesquisa e criação.
+As instruções internas, os registros operacionais e o acervo poético reservado não são publicados neste repositório. Essa separação permite apresentar a história, os fundamentos e as referências do projeto sem expor materiais privados de pesquisa e criação.
 
 ## Próximos caminhos
 
