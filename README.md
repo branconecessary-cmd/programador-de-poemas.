@@ -25,6 +25,12 @@ A ferramenta não determina o significado da experiência nem assume a autoria. 
 
 A poesia é o campo de origem e uma dimensão essencial do projeto. A reflexão também alcança linguagem, criatividade, tecnologia, acessibilidade, autoria e relações humanas.
 
+## Apresentação pública e identidade visual
+
+O projeto também possui uma apresentação audiovisual, concebida para comunicar sua relação entre experiência humana, poesia e inteligência artificial. O vídeo de apresentação e os materiais visuais públicos serão organizados na pasta [`identidade-visual/`](identidade-visual/README.md).
+
+O registro do nascimento oficial do projeto, em 1º de novembro de 2026, está disponível em [`apresentacao/nascimento-oficial.md`](apresentacao/nascimento-oficial.md). O Programador de Poemas nasce oficialmente nesta data, mas permanece em desenvolvimento.
+
 ## Limites desta apresentação
 
 Este documento apresenta a definição pública e os princípios gerais do protocolo. Instruções operacionais, estruturas internas, materiais reservados e o acervo privado de criações não fazem parte desta publicação.
