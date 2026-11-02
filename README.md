@@ -335,6 +335,16 @@ A documentação permite observar o comportamento da ferramenta ao longo das int
 
 As observações decorrentes da interação são tratadas como registros de experiência e análise. Não devem ser confundidas, por si só, com evidência científica, teste controlado ou validação independente.
 
+## 10.1. Experimento social e observação da interação humano-IA
+
+O Programador de Poemas também constitui um experimento social conduzido por seu próprio autor. Patrick Branco Campos é o sujeito central dessa experiência e, simultaneamente, o responsável pela observação, pelo acompanhamento das interações, pelo registro das ocorrências e pela metrificação dos resultados.
+
+A experiência envolve a observação do comportamento de tecnologias de inteligência artificial em situações reais de colaboração, criação, interpretação e organização de conteúdo. As respostas, inconsistências, limitações e comportamentos identificados são registrados e avaliados segundo critérios estabelecidos pelo próprio autor.
+
+A metrificação tem origem na experiência vivida e nos parâmetros definidos por Patrick. A inteligência artificial participa como tecnologia observada, não como responsável pela condução da investigação ou pela definição dos critérios de avaliação.
+
+Essa experiência também constitui uma das bases de reflexão e documentação para o desenvolvimento de seu Trabalho de Conclusão de Curso (TCC). Seu enquadramento é o de um experimento social, não o de um experimento científico controlado.
+
 A transparência também exige reconhecer que modelos de inteligência artificial podem mudar seu comportamento, apresentar respostas diferentes diante de contextos semelhantes e produzir resultados incorretos mesmo quando recebem orientações detalhadas.
 
 O protocolo não promete eliminar essas limitações. Estabelece uma estrutura para identificá-las, questioná-las e documentá-las.
