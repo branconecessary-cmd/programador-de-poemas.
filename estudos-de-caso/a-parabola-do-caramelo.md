@@ -215,7 +215,7 @@ Não precisava adquirir pedigree.
 | **Autor & Copyright** | Patrick Branco Campos (*A Invasão do Poeta*) |
 | **Data de criação** | 04/11/2026 |
 | **Data de revisão** | Não registrada |
-| **Data de publicação** | 04/11/2026 |
+| **Data de publicação** | Não registrada, aguardando validação do autor |
 | **Repositório GitHub** | [branconecessary-cmd/programador-de-poemas.](https://github.com/branconecessary-cmd/programador-de-poemas.) |
 | **Licença de uso da obra** | Direitos Autorais Reservados / Avctoris & CBL |
 | **Arquitetura de dados** | *Human-in-the-Loop* com curadoria psicanalítica e lógica de ML |
