@@ -1,6 +1,6 @@
 # Diretrizes de Governança e Transparência Técnica\\
 
-\
+
 
 Este repositório público opera sob o modelo **Human-in-the-Loop (HITL)**, garantindo que todo artefato técnico, arquitetura de prompt e código passem por validação, auditoria e supervisão humana direta antes de qualquer implantação.\
 \
